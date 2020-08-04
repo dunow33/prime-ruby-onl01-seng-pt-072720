@@ -10,4 +10,4 @@ def prime?(integer)
   return true
 end
 
-puts prime?(23)
+puts prime?(22)
