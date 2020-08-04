@@ -8,4 +8,4 @@ def prime?(integer)
   return true
 end
 
-puts prime?(4)
+puts prime?(44)
