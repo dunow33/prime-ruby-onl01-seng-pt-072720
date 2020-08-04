@@ -3,3 +3,5 @@ def prime(integer)
     puts num
   end
 end
+
+prime(23)
