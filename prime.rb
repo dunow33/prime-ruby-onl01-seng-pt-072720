@@ -1,7 +1,7 @@
 def prime?(integer)
   if integer < 0
-    numbers = (integer...-2).to_a
-  else
+    return false
+  elsif integer == 0 || integer == 1
     numbers = (2...integer).to_a
   end
   
