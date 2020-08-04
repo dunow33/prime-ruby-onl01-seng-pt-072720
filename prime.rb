@@ -7,4 +7,4 @@ def prime?(integer)
   true
 end
 
-prime?(23)
+puts prime?(23)
