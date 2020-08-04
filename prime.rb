@@ -1,4 +1,4 @@
-def prime(integer)
+def prime?(integer)
   (1..integer).each do |num|
     puts num
   end
