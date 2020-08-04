@@ -1,5 +1,4 @@
 def prime?(integer)
-  
   numbers = (2...integer).to_a
   
   numbers.each do |num|
@@ -9,5 +8,3 @@ def prime?(integer)
   end
   return true
 end
-
-puts prime?(22)
