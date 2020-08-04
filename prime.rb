@@ -8,3 +8,5 @@ def prime?(integer)
   end
   return true
 end
+
+puts prime?(2)
